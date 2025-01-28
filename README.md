@@ -1,5 +1,8 @@
 # 4BT
 ProgettoPokemon
+
+Ogni studente vada nella sezione Projects e ne crei uno con il proprio nome e cognome
+
 1.0)
 Creare la classe mosse, in cui abbiamo il tipo di mossa, nome, attacco, precisione e descrizione. Di questa classe avremo solo costruttori set e get.
 Creare una classe Pokemon, che presenti il numero, il nome, il tipo1, il tipo2, la razza del pokemon, psmax, psattuali, velocità.
