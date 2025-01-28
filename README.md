@@ -17,4 +17,6 @@ Ogni pokemon poi avrà un arraylist di massimo 4 mosse. Ogni pokemon avrà i met
 - imparaMossa: si passa per parametro un oggetto mossa dato in input dall'utente e la si fa imparare al pokemon sostituendo una mossa già esistente.
 - cheatMossa: si aggiunge una mossa barando e togliendo il limite delle 4 mosse
 - dimenticaMossa: si mostra all'utente la lista delle mosse del pokemon e sceglie quale eliminare delle 4.
+  
 Creare un'eccezione personalizzata in impara mossa. Il pokemon deve poter imparare mosse che corrispondano solo ad uno dei suoi due tipi.
+
