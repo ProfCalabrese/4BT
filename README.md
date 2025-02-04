@@ -1,7 +1,7 @@
 # 4BT
 ProgettoPokemon
 
-0.5)Ogni studente vada nella sezione Projects e ne crei uno con il proprio nome e cognome
+0.5)Ogni studente vada nel branch RV e ne crei uno con il proprio nome e cognome
 
 1.0)
 Creare la classe mosse, in cui abbiamo il tipo di mossa, nome, attacco, precisione e descrizione. Di questa classe avremo solo costruttori set e get.
