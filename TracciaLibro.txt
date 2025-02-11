@@ -1,0 +1,14 @@
+Aggiornare il codice in Python fatto la scorsa lezione, integrandolo con la lettura di file e input.
+Far inserire il testo di Harry Potter da file, poi permettere all'utente di aggiungere del testo preso da input e infine rianalizzarlo come nello scorso esercizio, restituendo però la tokenizzazione del testo in un file di testo, e in output i risultati delle analisi statistiche.
+Inserire ogni parola nell'array, poi permettere all'utente le seguenti operazioni sull'array:
+Permettere all'utente di cercare una parola;
+Permettere all'utente di aggiungere una parola;
+Permettere all'utente di togliere una parola;
+Permettere all'utente di cercare una parola;
+Aggiungere n parole, chiedendo all'utente se vuole aggiungerle partendo dall'inizio o dalla fine;
+Togliere n parole dall'array, chiedendo all'utente se vuole toglierle partendo dall'inizio o dalla fine;
+Modificare una parola, cercando quella data parola nell'array e modificarla;
+Permettere all'utente di cercare una parola e restituire quante occorrenze ci sono di quella parola (f);
+Calcolare la probabilità di una parola inserita dall'utente;
+Chiedere all'utente una parola, dirgli la probabilità(f/Tot) che quella parola venga pescata a caso e poi estrarre a caso una parola dall'array.
+Le operazioni precedenti vanno svolte in delle funzioni.
